@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744343804545",
+    "project_id": "college-management-b5632",
+    "storage_bucket": "college-management-b5632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744343804545:android:890073caecaf7d2faf4b80",
+        "android_client_info": {
+          "package_name": "com.rohya.collegemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744343804545-2vlqfaqlgefu12s24c5tr01jpnacfumh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQcxq0F0GmAkEiSP8RrkC_cC7L9UEbzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744343804545-2vlqfaqlgefu12s24c5tr01jpnacfumh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

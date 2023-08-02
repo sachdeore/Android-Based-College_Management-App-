@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/menuHome">
+    <fragment
+        android:id="@+id/menuHome"
+        android:name="com.rohya.collegemanagement.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/menuAnnounce"
+        android:name="com.rohya.collegemanagement.AnnounceFragment"
+        android:label="fragment_announce"
+        tools:layout="@layout/fragment_announce" />
+    <fragment
+        android:id="@+id/placementFragment"
+        android:name="com.rohya.collegemanagement.PlacementFragment"
+        android:label="fragment_placements"
+        tools:layout="@layout/fragment_placements" />
+    <fragment
+        android:id="@+id/menuLibrary"
+        android:name="com.rohya.collegemanagement.LibraryFragment"
+        android:label="fragment_library"
+        tools:layout="@layout/fragment_library" />
+    <fragment
+        android:id="@+id/menuConnectAbout"
+        android:name="com.rohya.collegemanagement.AboutUsFragment"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" />
+    <fragment
+        android:id="@+id/menuConnectContact"
+        android:name="com.rohya.collegemanagement.ContactUsFragment"
+        android:label="fragment_contact_us"
+        tools:layout="@layout/fragment_contact_us" />
+    <fragment
+        android:id="@+id/menuDepartmentAS"
+        android:name="com.rohya.collegemanagement.ASFragment"
+        android:label="fragment_a_s"
+        tools:layout="@layout/fragment_a_s" />
+    <fragment
+        android:id="@+id/menuDepartmentCM"
+        android:name="com.rohya.collegemanagement.CMFragment"
+        android:label="fragment_c_m"
+        tools:layout="@layout/fragment_c_m" />
+    <fragment
+        android:id="@+id/menuDepartmentCE"
+        android:name="com.rohya.collegemanagement.CEFragment"
+        android:label="fragment_c_e"
+        tools:layout="@layout/fragment_c_e" />
+    <fragment
+        android:id="@+id/menuDepartmentME"
+        android:name="com.rohya.collegemanagement.MEFragment"
+        android:label="fragment_m_e"
+        tools:layout="@layout/fragment_m_e" />
+    <fragment
+        android:id="@+id/menuDepartmentETC"
+        android:name="com.rohya.collegemanagement.EandTcFragment"
+        android:label="fragment_eand_tc"
+        tools:layout="@layout/fragment_eand_tc" />
+    <fragment
+        android:id="@+id/menuLogin"
+        android:name="com.rohya.collegemanagement.LoginFragment"
+        android:label="Admin Login"
+        tools:layout="@layout/fragment_login" />
+</navigation>

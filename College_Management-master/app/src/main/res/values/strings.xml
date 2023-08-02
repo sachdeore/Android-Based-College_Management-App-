@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name" translatable="false">College Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shri_h_h_j_b_polytechnic_chandvad">Shri H. H. J. B. Polytechnic Chandvad</string>
+    <string name="applied_science">Applied Science</string>
+    <string name="civil_engineering">Civil Engineering</string>
+    <string name="computer_technology">Computer Technology</string>
+    <string name="e_and_tc_engineering">E and TC Engineering</string>
+    <string name="mechanical_engineering">Mechanical Engineering</string>
+    <string name="workshop">Workshop</string>
+    <string name="department">Departments</string>
+    <string name="vision_and_mission">Vision and Mission</string>
+    <string name="vision"><b><b>Vision:</b></b>\nTo enhance technical skills of students to meet industry needs along with human values. \n\n<b><b>Mission:</b></b>\nM1- To provide industry-oriented quality technical education to face industrial challenges. \nM2- To inculcate professional skills and human values among students. \nM3- To develop entrepreneurial qualities among students and motivate them towards lifelong learning.\n</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="announcement">Announcement</string>
+    <string name="department_staff">Department Staff</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="email">Email</string>
+    <string name="course">Course</string>
+    <string name="name">Name</string>
+    <string name="placement">Placement</string>
+    <string name="connect_with_us">Connect with us</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="admin_space">Admin space</string>
+    <string name="info_applied_science">The motto of science department is to imbibe the spirit of scientific temper and to instill the logical and analytical approach to the budding engineers. It also lays a foundation in the students required for the present engineering and technology core. This department ‘s main objective is to develop in the student, the attitude to imbibe advanced concepts applied in various fields of engineering as well as to apply new concepts to the existing emerging challenges. This department has highly qualified and experienced staff who always focus for the development of the students. They are involved in all departmental activities either curricular or extra curricular. The Academic work of First Year is taken care by Department of Science. It also maintains Parent-Institution communication of First Year. This department deals with the subjects like Basic Sciences, Applied Sciences (Physics, Chemistry), English, Mathematics and Communication skills.</string>
+    <string name="info_computer_technology">Our department was started in the year 1994 with an aim to teach computer for students with the intake of 60 students per year in regular shift and now 60 students per year in second shift from 2008.The department of Computer Technology can flaunt of its high profile in the history of the Institution. It has decided and highly qualified faculty members who direct all attention towards teaching and training the budding Computer Technology students and to make them look beyond the obvious.\nOur department has always kept its target by providing computers as per MSBTE norms to the students. We also offer students the opportunity to work on the most sophisticated hardware and software platforms existing in the computer industry. Sharing emerging trends and new developments in the industry, these experts along with the dedicated faculty give students the confidence to take on and successfully execute highly complex and challenging projects.<b>\n\nMany pass out Students are working at various positions in industry, Government, and education sector in India and abroad.</b> \n\n<b>Name of Programme  : </b> Diploma in Computer Technology\n<b>Sanction Intake :  </b> 120 \n<b>Duration : </b> 3 Year\n<b>Course Code :</b> CM</string>
+    <string name="info_civil_eng">Civil engineering involves utilization of scientific knowledge for comfort and welfare of human beings. It deals with construction activities of civil engineering structures like buildings, bridges, water supply schemes, tunnels, roads, railways, airports and development of small cities. Utilization and planning of human resource, machines, money and materials.  It also involves waste disposal and transportation. \nCivil engineering has opportunities in government, public and private sector like PWD, CPWD, corporations, railways L and T, GMR etc. \nCivil engineers can also become job providers by entrepreneurship and having their own construction industry or registering as a contractor with various government and public sectors. They can also pursue graduation, post graduation and further PhD. \nThe department of civil engineering is established in 1994–95 as the distinction of being oldest department in the institute and producing toppers in MSBTE exam. \nIt has been awarded excellent by EMC appointed by MSBTE. The department has kept updating to well equip laboratories. It also offers training in Autocad and Consultancy in material testing to Government, Private and Public sector.\n\n<b>Name of Programme :</b> Diploma in Civil Engineering<b>\nSanctioned Intake :</b> Regular  60<b>\nDuration :</b> 3 Years <b>\nCode :</b> CE </string>
+    <string name="info_mechanical_eng">The Department of Mechanical engineering was established in the year 1994 with an ambition to develop mechanical engineers i.e technocrats to meet need of technical manpower of nearby industrial sector.  The department has intake of 60 students in regular shift and 60 students in second shift from 2008. \nThe department of Mechanical engineering always strives to develop and our students ranked in MSBTE merit list in the history of the Institution. It has well qualified, dedicated experienced faculty members who devotes towards inculcating knowledge and skills to budding mechanical engineers. \nOur department provides all required equipment and latest modern machines   as per MSSBTE norms to the students. The department also motivates students for higher studies and lifelong learning. We also motivate and give exposure to the students to work on the projects and allied activities to make them employable and become future entrepreneurs for self-employment. Competitive edge with Sharing emerging trends and recent developments through the industry, institute interaction give students the confidence to solve real problems in their professional career to handle complex and challenging tasks/projects. <b>\n\nMany pass out diploma engineers of our department are serving in  various industries including Government sector, education sector at various job profiles and positions  in India and abroad.</b> </string>
+    <string name="info_E_andTC">The Electronics and Tele-communication engineering is one of the fastest developing field. This course has been designed by MSBTE to ensure that, candidates will have opportunities in both hardware as well as software field.  This Programme is designed to acquire the knowledge of identification, testing and design of circuits/equipment and technical skills in the field of communication, microprocessor, instrumentation and consumer electronics. It has diverse application areas that have affected our daily life in various ways.Electronics and Telecommunication is the field, connected not only with radio, telephone, television, microprocessor based systems, etc. which are the nerve centers of most of the industrial operations, but also in military communications, entertainment, domestic utilities etc. \nElectronics Department was established in the year 1983. Up to 2002, Industrial Electronics Program was run by the department. From 2001, the department started programs in Electronics and Tele-communication Engineering.The strength of the department is fully equipped laboratories and well-qualified, experienced as well as skilled staff. The Department is having all advanced electronics equipmentAfter completion of the Diploma programme, the students may be recruited as Maintenance Engineer, Service Engineer, Quality control Engineer, Technician etc. in various Government and Private Organization like Railway, BSNL, Defense, Meteorology, Heavy Electronics, Power Plants, Medical, Scientific, Home applications, Consumer electronics Industries.For overall development of the students, seminars, workshops, guest lectures, industrial visits etc. organized by the department. The department has consistently excellent academic results and placements records. \n\n<b>Name of Programme :</b>Diploma in Electronics and Tele-communication Engineering<b>\nSanction Intake :</b> 60 <b>\nDuration :</b> 3 Years<b>\nCourse Code :</b> EJ </string>
+    <string name="info_">  </string>
+
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="login_to_continue_back">Login to Continue Back !</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="password">Password</string>
+    <string name="master_code">Master code</string>
+    <string name="add_data">Add Data</string>
+    <string name="send_event_notification">Send Event Notification</string>
+    <string name="add">Add Data</string>
+    <string name="image_url">Image URL</string>
+    <string name="add_">ADD</string>
+    <string name="update">Update</string>
+    <string name="no_new_announcements">No new Announcements</string>
+    <string name="new_announcement">New Announcement</string>
+    <string name="add_announcement">Add Announcement</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="add_the_annoucement">Add the Annoucement</string>
+    <string name="submit">Submit</string>
+    <string name="quiz">Quiz</string>
+    <string name="enter_quiz_link">Enter quiz link</string>
+</resources>

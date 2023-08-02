@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_10sdp"
+    tools:context=".Admin_Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnAddData"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_80sdp"
+            android:text="@string/add_data"
+            android:textAllCaps="false"
+            android:textSize="@dimen/_16ssp"
+            android:background="@drawable/rounded"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSendNotification"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_80sdp"
+            android:text="@string/send_event_notification"
+            android:textAllCaps="false"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:textSize="@dimen/_16ssp"
+            android:background="@drawable/rounded"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnAnnounce"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_80sdp"
+            android:text="@string/new_announcement"
+            android:textAllCaps="false"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:textSize="@dimen/_16ssp"
+            android:background="@drawable/rounded"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnQuiz"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_80sdp"
+            android:text="@string/quiz"
+            android:textAllCaps="false"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:textSize="@dimen/_16ssp"
+            android:background="@drawable/rounded"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnnotes"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_80sdp"
+            android:text="Notes"
+            android:textAllCaps="false"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:textSize="@dimen/_16ssp"
+            android:background="@drawable/rounded"/>
+    </LinearLayout>
+
+</ScrollView>

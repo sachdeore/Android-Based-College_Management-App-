@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ASFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:id="@+id/parent_view_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/img_applied_sci"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_170sdp"
+            android:layout_marginTop="-30dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/img_fg_applied_science" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:text="@string/info_applied_science"
+            android:textColor="@color/black"
+            android:layout_marginStart="@dimen/_8sdp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_63sdp"
+            android:text="@string/department_staff"
+            android:textSize="@dimen/_30ssp"
+            android:fontFamily="@font/ar"
+            android:layout_margin="@dimen/_10sdp"
+            android:gravity="center"
+            android:textColor="@color/primary"
+            android:background="@drawable/background_text" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/asFragmentRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10sdp">
+        </androidx.recyclerview.widget.RecyclerView>
+
+        <com.denzcoskun.imageslider.ImageSlider
+            android:id="@+id/imageslider"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_200sdp"
+            android:layout_marginTop="@dimen/_14sdp"
+            app:iss_auto_cycle="true"
+            android:elevation="@dimen/_2sdp"
+            app:iss_delay="0"
+            app:iss_period="3000"
+            app:iss_corner_radius="20"
+            app:iss_placeholder="@color/black"
+            app:iss_error_image="@color/error" />
+
+    </LinearLayout>
+
+</ScrollView>

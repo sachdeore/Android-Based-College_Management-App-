@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuHome"
+        android:icon="@drawable/nav_icon_university"
+        android:title="@string/home" />
+
+    <item android:id="@+id/menuAnnounce"
+        android:icon="@drawable/nav_icon_announce"
+        android:title="@string/announcement" />
+
+    <item android:id="@+id/menuLibrary"
+        android:icon="@drawable/nav_icon_quiz"
+        android:title="@string/quiz" />
+
+    <item android:id="@+id/menuDeparment"
+        android:icon="@drawable/nav_icon_university"
+        android:title="@string/department">
+        <menu>
+            <item android:id="@+id/menuDepartmentAS"
+                android:icon="@drawable/nav_icon_applied_science"
+                android:title="@string/applied_science" />
+
+            <item android:id="@+id/menuDepartmentCM"
+                android:icon="@drawable/nav_icon_computer"
+                android:title="@string/computer_technology" />
+
+            <item android:id="@+id/menuDepartmentCE"
+                android:icon="@drawable/nav_icon_civil"
+                android:title="@string/civil_engineering" />
+
+            <item android:id="@+id/menuDepartmentME"
+                android:icon="@drawable/nav_icon_mechanical"
+                android:title="@string/mechanical_engineering" />
+
+            <item android:id="@+id/menuDepartmentETC"
+                android:icon="@drawable/nav_icon_enadtc"
+                android:title="@string/e_and_tc_engineering" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/menuConnectWithUs"
+        android:icon="@drawable/nav_icon_university"
+        android:title="@string/connect_with_us">
+        <menu>
+            <item android:id="@+id/menuConnectAbout"
+                android:icon="@drawable/nav_icon_aboutus"
+                android:title="@string/about_us" />
+
+            <item android:id="@+id/menuConnectContact"
+                android:icon="@drawable/nav_icon_contact"
+                android:title="@string/contact_us" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/menuLogin"
+        android:icon="@drawable/nav_icon_administrator"
+        android:title="@string/admin_space" />
+
+</menu>
